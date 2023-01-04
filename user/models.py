@@ -15,6 +15,6 @@ class User(models.Model):
 #{GET, UPDATE,DELETE} filter(id = user_id).update(name = "ggg")
                   # .filter{id = user_id}.delete()
                   
-#1. set up python virtual environment 
-#2. create a module
+#1. set up python virtual environment   
+#2. create a django module
 #3. create a GET and POST for GET, UPDATE,DELETE
